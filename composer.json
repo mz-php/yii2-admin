@@ -1,5 +1,5 @@
 {
-    "name": "mz/yii2-admin",
+    "name": "meizu/yii2-admin",
     "description": "GUI manager for RABC (Role Base Access Control) and menu Yii2. Easy to manage authorization of user.",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
