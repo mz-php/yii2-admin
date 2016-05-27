@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist mz/yii2-admin "*"
+php composer.phar require --prefer-dist meizu/yii2-admin "*"
 ```
 
 or add
 
 ```
-"mz/yii2-admin": "*"
+"meizu/yii2-admin": "*"
 ```
 
 to the require section of your `composer.json` file.
@@ -25,7 +25,4 @@ to the require section of your `composer.json` file.
 Usage
 -----
 
-Once the extension is installed, simply use it in your code by  :
-
-```php
-<?= \mz\admin\AutoloadExample::widget(); ?>```
+我正在整理文档，请等等 ^_^

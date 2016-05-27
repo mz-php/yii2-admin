@@ -11,11 +11,16 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "*"
+        "yiisoft/yii2": "*",
+        "kartik-v/yii2-widget-datetimepicker": "*",
+        "kartik-v/yii2-widget-select2": "*"
     },
     "autoload": {
         "psr-4": {
             "mz\\admin\\": ""
         }
+    },
+    "extra": {
+        "bootstrap": "mz\\admin\\Bootstrap"
     }
 }
